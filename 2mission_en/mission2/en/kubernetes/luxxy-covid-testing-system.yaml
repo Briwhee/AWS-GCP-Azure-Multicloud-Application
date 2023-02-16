@@ -41,15 +41,15 @@ spec:
         - name: AWS_BUCKET
           value: "luxxy-covid-testing-system-pdf-en-bw22"
         - name: S3_ACCESS_KEY
-          value: "AKIAXLQD6KXOGD4GDYRJ"
+          value: "*************************************"
         - name: S3_SECRET_ACCESS_KEY
-          value: "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"
+          value: *************************************
         - name: DB_HOST_NAME
           value: "10.91.240.3"
         - name: DB_USER
           value: "app"
         - name: DB_PASSWORD
-          value: "welcome123456"
+          value: "*************************************"
         - name: DB_NAME
           value: "dbcovidtesting"
         - name: DB_PORT
